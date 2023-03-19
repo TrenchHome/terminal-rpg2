@@ -7,7 +7,7 @@
 TODO
 
 ## Class Diagram
-```
+```mermaid
 classDiagram
     Role <|-- Monster
     Role <|-- Player
